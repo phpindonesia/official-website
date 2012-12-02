@@ -1,0 +1,1 @@
+Drupal.locale = { 'pluralFormula': function ($n) { return Number(($n!=1)); }, 'strings': {"":{"(active tab)":"(tab aktif)", "Select all rows in this table":"Pilih semua baris dalam tabel ini", "Deselect all rows in this table":"Hapus pilihan pada semua baris dalam tabel ini"}} };;
