@@ -206,9 +206,9 @@ $databases = array (
     'default' => 
     array (
       'database' => 'phpindonesia_net',
-      'username' => 'phpindonesianet',
-      'password' => 'pmFw9H#?',
-      'host' => 'mysql.phpindonesia.net',
+      'username' => 'dev',
+      'password' => 'dev',
+      'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
       'prefix' => 'phpid_',
